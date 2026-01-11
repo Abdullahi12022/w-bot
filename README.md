@@ -6,7 +6,7 @@ One-command installation WhatsApp bot with AI capabilities.
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/w-bot.git
+git clone https://github.com/Abdullahi12022/w-bot.git
 cd w-bot
 
 # 2. Make scripts executable
