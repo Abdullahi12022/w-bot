@@ -1,19 +1,21 @@
-# 🤖 W-BOT - WhatsApp AI Assistant
+Installation Commands
 
-One-command installation WhatsApp bot with AI capabilities.
-
-## 🚀 Installation
+For Termux Users (Android):
 
 ```bash
-# 1. Clone
+pkg update && pkg upgrade -y
+pkg install git -y
 git clone https://github.com/Abdullahi12022/w-bot.git
 cd w-bot
-
-# 2. Make scripts executable
 chmod +x build.sh start.sh
-
-# 3. Run installer (asks for API key)
 ./build.sh
+```
 
-# 4. you can generate groq API key on
-# https://console.groq.com
+For Linux/macOS Users:
+
+```bash
+git clone https://github.com/Abdullahi12022/w-bot.git
+cd w-bot
+chmod +x build.sh start.sh
+./build.sh
+```
