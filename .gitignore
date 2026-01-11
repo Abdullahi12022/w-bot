@@ -1,0 +1,6 @@
+node_modules/
+auth/
+.env
+contacts.json
+.DS_Store
+*.log
