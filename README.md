@@ -16,4 +16,4 @@ chmod +x build.sh start.sh
 ./build.sh
 
 # 4. you can generate groq API key on
-https://console.groq.com
+# https://console.groq.com
